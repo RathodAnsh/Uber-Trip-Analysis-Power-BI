@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project showcases a Power BI dashboard built to analyze Uber trip data. [cite_start]The aim was to transform raw data into clear, interactive visuals that provide actionable insights into bookings, revenue, trip distances, and rider behavior, ultimately helping to optimize overall performance. 
+This project showcases a Power BI dashboard built to analyze Uber trip data.The aim was to transform raw data into clear, interactive visuals that provide actionable insights into bookings, revenue, trip distances, and rider behavior, ultimately helping to optimize overall performance. 
 
 ## Key Features & Dashboards
 
