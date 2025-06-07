@@ -7,7 +7,7 @@ This project showcases a Power BI dashboard built to analyze Uber trip data.The 
 ## Key Features & Dashboards
 
 The Power BI solution is structured around three main dashboards:
-* **Overview Dashboard**: Presents key metrics such as total bookings, total booking value, total trip distance, average trip value, average trip distance, and average trip time. [cite_start]It also highlights popular payment types, day/night trip distribution, most frequent locations, and vehicle type usage. 
+* **Overview Dashboard**: Presents key metrics such as total bookings, total booking value, total trip distance, average trip value, average trip distance, and average trip time.It also highlights popular payment types, day/night trip distribution, most frequent locations, and vehicle type usage. 
 * **Time-Based Analysis Dashboard**: Focuses on identifying booking trends throughout the day and week, showcasing total bookings by pickup hour and by day of the week. 
 * **Detailed View Dashboard**: Provides a granular view of individual trip records, allowing for drilling into specific details such as Trip ID, pickup date, pickup hour, vehicle, payment type, number of passengers, trip distance, booking value, and pickup location. 
 
